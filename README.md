@@ -15,14 +15,10 @@
 <li>127.0.0.1 www.chastite.BG</li>
 <li>127.0.0.1 www.data.bg</li>
 <li>127.0.0.1 www.dete.bg</li>
-<li>127.0.0.1 www.fame.bg</li>
 <li>127.0.0.1 www.farma.bg</li>
 <li>127.0.0.1 www.formula1.bg</li>
-<li>127.0.0.1 www.gsm.bg</li>
 <li>127.0.0.1 www.golf.bg</li>
 <li>127.0.0.1 www.hotnews.bg</li>
-<li>127.0.0.1 www.insurance.bg</li>
-<li>127.0.0.1 www.insurance.bg</li>
 <li>127.0.0.1 www.insurance.bg</li>
 <li>127.0.0.1 www.men.bg</li>
 <li>127.0.0.1 www.profit.bg</li>
@@ -31,8 +27,6 @@
 <li>127.0.0.1 www.sport.bg</li>
 <li>127.0.0.1 www.svejo.net</li>
 <li>127.0.0.1 www.termo.bg</li>
-<li>127.0.0.1 www.timeart.bg</li>
-<li>127.0.0.1 www.top.bg</li>
 <li>127.0.0.1 www.topcars.bg</li>
 <li>127.0.0.1 www.tuk.bg</li>
 <li>127.0.0.1 www.vivasport.bg</li>
